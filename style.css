@@ -1,0 +1,12 @@
+.central-align {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.won {
+    background-color: #9EFF9E!important;
+}
+
+.lost {
+    background-color: #FFE3E3!important;
+}
