@@ -1,3 +1,16 @@
+body {
+    background-color: black;
+}
+
+.navbar {
+    background-color: #c19d53;
+}
+
+.introduction-section {
+    padding-top: 15px;
+    background-color: white;
+}
+
 .images-section {
     background-color: black;
     padding: 30px 15px 0px 15px;
@@ -5,8 +18,9 @@
 }
 
 article {
-    margin-top: 15px;
     margin-bottom: 15px;
+    background-color: white;
+    padding: 15px;
 }
 
 figcaption {
@@ -24,4 +38,12 @@ figcaption {
 
 .lost {
     background-color: #FFE3E3!important;
+}
+
+.margin-top-15 {
+    margin-top: 15px;
+}
+
+.padding-top-10 {
+    padding-top: 10px;
 }
