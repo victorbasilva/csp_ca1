@@ -18,6 +18,11 @@ body {
     color: wheat;
 }
 
+.img-full {
+    width: 100%;
+    height: auto;
+}
+
 article {
     margin-bottom: 15px;
     background-color: white;
